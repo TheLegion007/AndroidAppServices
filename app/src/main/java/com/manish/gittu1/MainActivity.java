@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int a = 123;
+        int a = 100;
     }
     void func() {
         String S ="kidhar ja rah bhai";
